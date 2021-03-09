@@ -1,0 +1,27 @@
+{
+  "name": "biblioteca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagofoks/biblioteca.git"
+  },
+  "author": "Tiago Selpuveda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagofoks/biblioteca/issues"
+  },
+  "homepage": "https://github.com/tiagofoks/biblioteca#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "collections": "^5.1.12",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.19",
+    "validator": "^13.5.2"
+  }
+}
